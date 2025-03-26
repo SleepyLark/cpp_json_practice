@@ -1,0 +1,53 @@
+{
+    "roomnumber": 500,
+    "size": 5,
+    "students": [
+        {
+            "grades": [
+                100,
+                100
+            ],
+            "name": "Eddie Murphy"
+        },
+        {
+            "grades": [
+                0
+            ],
+            "name": "Robert"
+        },
+        {
+            "grades": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "name": "Pikachu"
+        },
+        {
+            "grades": [
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15
+            ],
+            "name": "samatha"
+        },
+        {
+            "grades": [
+                33,
+                22,
+                1,
+                9001
+            ],
+            "name": "Goku"
+        }
+    ],
+    "teacher": "Bill Nye the Science Guy"
+}
